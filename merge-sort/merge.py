@@ -1,6 +1,5 @@
 # Merge Sort en Python
-
-Ce script implémente l'algorithme de tri fusion (merge sort) en Python.
+#Ce script implémente l'algorithme de tri fusion (merge sort) en Python.
 
 def merge(array):
     if len(array)<=1:
